@@ -13,6 +13,11 @@ wmata is a high level async Rust interface to the [Washington Metropolitan Area 
 - [Dependencies](#dependencies)
 - [Contact](#contact)
 - [License](#license)
+- [Deploying](#deploying)
+   - [Kubernetes](#Kubernetes)
+   - [ECS](#ECS)
+   - [Terraform](#Terraform)
+
 
 ## Requirements
 - Rust 1.39
@@ -80,3 +85,19 @@ Feel free to email questions and comments to [emma@emma.sh](mailto:emma@emma.sh)
 ## License
 
 wmata is released under the MIT license. [See LICENSE](https://github.com/emma-k-alexandra/wmata/blob/master/LICENSE) for details.
+
+
+
+###### I forked this repo to add examples for commonly used dynamic container API systems; or apps. The engineer of this is a respected colleague/friend, and a very talented technologist.
+
+## Deploying
+
+
+### Kubernetes
+
+
+### ECS
+
+
+### Terraform
+
